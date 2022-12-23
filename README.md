@@ -1,6 +1,6 @@
-OOP PROJECT 
+                    OOP PROJECT 
 
-sales orded application
+              sales orded application
 
 
-All oop concepts have been implemented in this project
+All oop concepts have been implemented in this project.
