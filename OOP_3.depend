@@ -1,0 +1,408 @@
+# depslib dependency file v1.0
+1652971649 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\oop3.cpp
+	<iostream>
+	<conio.h>
+	"DataEntry.h"
+	"SalesProcess.h"
+
+1652969588 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\dataentry.h
+	<iostream>
+	"Customers.h"
+	"Stock.h"
+	<string>
+
+1652976333 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\customers.h
+	<iostream>
+	"Person.h"
+	"Company.h"
+	<string>
+
+1652975384 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\person.h
+	<iostream>
+	<string>
+	"Customer.h"
+
+1652975221 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\customer.h
+	"Order.h"
+	<iostream>
+
+1652974539 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\order.h
+	<iostream>
+	<ctime>
+	"OrderStatus.h"
+	"OrderItem.h"
+	"Cash.h"
+	"Check.h"
+	"Credit.h"
+	<string>
+
+1652970716 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\orderstatus.h
+
+1652970580 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\orderitem.h
+	<iostream>
+	<string>
+
+1652970336 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\cash.h
+	"Payment.h"
+
+1652971240 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\payment.h
+	<iostream>
+	<string>
+
+1652970383 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\check.h
+	"Payment.h"
+
+1652970461 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\credit.h
+	"Payment.h"
+
+1652975372 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\company.h
+	"Customer.h"
+	<string>
+
+1652969746 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\stock.h
+	<iostream>
+	"Product.h"
+	<string>
+
+1652970826 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\product.h
+	<iostream>
+	<string>
+
+1652977019 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\salesprocess.h
+	<iostream>
+	"Transaction.h"
+	<string>
+	"Customers.h"
+
+1652975745 c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\include\transaction.h
+	<iostream>
+	"Order.h"
+	<string>
+
+1652970325 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\cash.cpp
+	"Cash.h"
+
+1652970376 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\check.cpp
+	"Check.h"
+
+1652979239 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\company.cpp
+	"Company.h"
+
+1652972143 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\credit.cpp
+	"Credit.h"
+
+1652975238 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\customer.cpp
+	"Customer.h"
+
+1652981368 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\customers.cpp
+	"Customers.h"
+
+1652981572 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\dataentry.cpp
+	"DataEntry.h"
+
+1652970572 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\orderitem.cpp
+	"OrderItem.h"
+
+1652971240 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\payment.cpp
+	"Payment.h"
+
+1652979296 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\person.cpp
+	"Person.h"
+
+1652970820 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\product.cpp
+	"Product.h"
+
+1652979497 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\salesprocess.cpp
+	"SalesProcess.h"
+
+1652969734 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\stock.cpp
+	"Stock.h"
+
+1652979296 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\transaction.cpp
+	"Transaction.h"
+
+1652974596 source:c:\users\this-mo-pc\desktop\oop_codeblock\oop_3\src\order.cpp
+	"Order.h"
+
+1652990962 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\oop3.cpp
+	<iostream>
+	<conio.h>
+	"DataEntry.h"
+	"SalesProcess.h"
+
+1652990847 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\dataentry.h
+	<iostream>
+	"Customers.h"
+	"Stock.h"
+	<string>
+
+1652976333 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\customers.h
+	<iostream>
+	"Person.h"
+	"Company.h"
+	<string>
+
+1652975384 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\person.h
+	<iostream>
+	<string>
+	"Customer.h"
+
+1652975221 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\customer.h
+	"Order.h"
+	<iostream>
+
+1652974539 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\order.h
+	<iostream>
+	<ctime>
+	"OrderStatus.h"
+	"OrderItem.h"
+	"Cash.h"
+	"Check.h"
+	"Credit.h"
+	<string>
+
+1652970716 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\orderstatus.h
+
+1652970580 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\orderitem.h
+	<iostream>
+	<string>
+
+1652970336 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\cash.h
+	"Payment.h"
+
+1652971240 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\payment.h
+	<iostream>
+	<string>
+
+1652970383 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\check.h
+	"Payment.h"
+
+1652970461 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\credit.h
+	"Payment.h"
+
+1652975372 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\company.h
+	"Customer.h"
+	<string>
+
+1652969746 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\stock.h
+	<iostream>
+	"Product.h"
+	<string>
+
+1652970826 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\product.h
+	<iostream>
+	<string>
+
+1652977019 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\salesprocess.h
+	<iostream>
+	"Transaction.h"
+	<string>
+	"Customers.h"
+
+1652975745 c:\users\this-mo-pc\desktop\20912021100232\oop_3\include\transaction.h
+	<iostream>
+	"Order.h"
+	<string>
+
+1652970325 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\cash.cpp
+	"Cash.h"
+
+1652970376 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\check.cpp
+	"Check.h"
+
+1652979239 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\company.cpp
+	"Company.h"
+
+1652972143 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\credit.cpp
+	"Credit.h"
+
+1652975238 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\customer.cpp
+	"Customer.h"
+
+1652981368 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\customers.cpp
+	"Customers.h"
+
+1652974596 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\order.cpp
+	"Order.h"
+
+1652970572 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\orderitem.cpp
+	"OrderItem.h"
+
+1652971240 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\payment.cpp
+	"Payment.h"
+
+1652979296 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\person.cpp
+	"Person.h"
+
+1652970820 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\product.cpp
+	"Product.h"
+
+1652979497 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\salesprocess.cpp
+	"SalesProcess.h"
+
+1652969734 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\stock.cpp
+	"Stock.h"
+
+1652979296 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\transaction.cpp
+	"Transaction.h"
+
+1652990892 source:c:\users\this-mo-pc\desktop\20912021100232\oop_3\src\dataentry.cpp
+	"DataEntry.h"
+
+1653797389 source:c:\users\this-mo-pc\desktop\oop_3_the last version\oop3.cpp
+	"ProductList.h"
+	"Customers.h"
+	"Transaction.h"
+	"OrderList.h"
+	"Number.h"
+	"Stock.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<cstring>
+	<bits/stdc++.h>
+	<windows.h>
+
+1653512605 c:\users\this-mo-pc\desktop\oop_3_the last version\include\dataentry.h
+	<iostream>
+	"Customers.h"
+	"Stock.h"
+
+1653667336 c:\users\this-mo-pc\desktop\oop_3_the last version\include\customers.h
+	<iostream>
+	"Person.h"
+	"Company.h"
+	<string>
+
+1653623427 c:\users\this-mo-pc\desktop\oop_3_the last version\include\person.h
+	<iostream>
+	<string>
+	"Customer.h"
+
+1653656879 c:\users\this-mo-pc\desktop\oop_3_the last version\include\customer.h
+	"Number.h"
+	<iostream>
+
+1653747891 c:\users\this-mo-pc\desktop\oop_3_the last version\include\order.h
+	<iostream>
+	<ctime>
+	"OrderStatus.h"
+	"OrderItem.h"
+	"Cash.h"
+	"Check.h"
+	"Credit.h"
+	<string>
+
+1652970716 c:\users\this-mo-pc\desktop\oop_3_the last version\include\orderstatus.h
+
+1653714404 c:\users\this-mo-pc\desktop\oop_3_the last version\include\orderitem.h
+	<iostream>
+	<cstring>
+	"Stock.h"
+
+1653760535 c:\users\this-mo-pc\desktop\oop_3_the last version\include\cash.h
+	"Payment.h"
+
+1653761408 c:\users\this-mo-pc\desktop\oop_3_the last version\include\payment.h
+	<iostream>
+	<string>
+
+1653760538 c:\users\this-mo-pc\desktop\oop_3_the last version\include\check.h
+	"Payment.h"
+
+1653760530 c:\users\this-mo-pc\desktop\oop_3_the last version\include\credit.h
+	"Payment.h"
+
+1653623431 c:\users\this-mo-pc\desktop\oop_3_the last version\include\company.h
+	"Customer.h"
+	<string>
+
+1653664975 c:\users\this-mo-pc\desktop\oop_3_the last version\include\stock.h
+	<iostream>
+	"Product.h"
+	<string>
+
+1653664805 c:\users\this-mo-pc\desktop\oop_3_the last version\include\product.h
+	<iostream>
+	<string>
+	"Number.h"
+
+1652977019 c:\users\this-mo-pc\desktop\oop_3_the last version\include\salesprocess.h
+	<iostream>
+	"Transaction.h"
+	<string>
+	"Customers.h"
+
+1653765049 c:\users\this-mo-pc\desktop\oop_3_the last version\include\transaction.h
+	<iostream>
+	"OrderList.h"
+	"Check.h"
+	"Cash.h"
+	"Credit.h"
+	<string>
+
+1653760790 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\cash.cpp
+	"Cash.h"
+
+1653760616 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\check.cpp
+	"Check.h"
+
+1653707074 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\company.cpp
+	"Company.h"
+
+1653760849 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\credit.cpp
+	"Credit.h"
+
+1653619023 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\customer.cpp
+	"Customer.h"
+
+1653667345 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\customers.cpp
+	"Customers.h"
+
+1653512612 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\dataentry.cpp
+
+1653751413 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\order.cpp
+	"Order.h"
+
+1653714373 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\orderitem.cpp
+	"OrderItem.h"
+
+1653760853 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\payment.cpp
+	"Payment.h"
+
+1653706997 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\person.cpp
+	"Person.h"
+
+1653664829 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\product.cpp
+	"Product.h"
+
+1653512862 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\salesprocess.cpp
+
+1653764775 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\transaction.cpp
+	"Transaction.h"
+
+1653706032 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\stock.cpp
+	"Stock.h"
+
+1653511908 c:\users\this-mo-pc\desktop\oop_3_the last version\include\number.h
+	<iostream>
+	<limits>
+
+1653523287 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\productlist.cpp
+	"ProductList.h"
+
+1653522812 c:\users\this-mo-pc\desktop\oop_3_the last version\include\productlist.h
+	"Product.h"
+
+1653578588 source:c:\users\this-mo-pc\desktop\oop_3_the last version\tempmain.cpp
+	<iostream>
+	"Customers.h"
+
+1653764957 source:c:\users\this-mo-pc\desktop\oop_3_the last version\src\orderlist.cpp
+	"OrderList.h"
+
+1653764972 c:\users\this-mo-pc\desktop\oop_3_the last version\include\orderlist.h
+	"Order.h"
+	"Person.h"
+	"Company.h"
+
