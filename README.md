@@ -1,6 +1,6 @@
                     OOP PROJECT 
 
-              sales orded application
+              sales orders application
 
 
 All oop concepts have been implemented in this project.
